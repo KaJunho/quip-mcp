@@ -1,0 +1,4 @@
+markdownify==1.1.0
+certifi
+beautifulsoup4
+mcp
